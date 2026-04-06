@@ -55,8 +55,8 @@ Starting Drizzle ORM
 Resetting and inserting users
 
 Users List:
-1. John Doe - john@example.com
-2. Alice - alice@example.com
+1. Ossama Majid - osamamajid143@gmail.com
+2. popular shows - pshows525@gmail.com
 ```
 
 ##  Features
