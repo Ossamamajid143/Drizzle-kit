@@ -1,0 +1,25 @@
+{
+  "name": "drizzle-orm-learning",
+  "version": "1.0.0",
+  "description": "Mini Learning Assignment: TypeScript + Drizzle ORM",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node node_modules/tsx/dist/cli.mjs src/index.ts",
+    "db:push": "node node_modules/drizzle-kit/bin.cjs push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "drizzle-orm": "^0.30.7",
+    "pg": "^8.11.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7",
+    "@types/pg": "^8.11.5",
+    "drizzle-kit": "^0.21.1",
+    "tsx": "^4.7.2",
+    "typescript": "^5.4.5"
+  }
+}
